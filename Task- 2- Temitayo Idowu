@@ -1,0 +1,13 @@
+EDA_Submission_Report.docx (Word report)
+A cover page plus 10 sections:
+
+Problem Statement – the business question behind the analysis
+Methodology – IPO framework, tools used (Python/pandas/matplotlib, Excel)
+Data Quality Audit – completeness check (1,200 records, only CouponCode has blanks, and why that's expected)
+Descriptive Statistics – mean/median/std/quartiles/skew for Quantity, Unit Price, Items In Cart, Total Price + histogram
+Outlier Detection – IQR method, bounds, table of the 8 flagged orders, "noise vs signal" interpretation + boxplot
+Category & Channel Performance – revenue by product, order status breakdown, monthly revenue trend (3 charts)
+Correlation Analysis – correlation matrix, heatmap, scatter plot, correlation ≠ causation note
+Key Findings Summary – 6 bullet takeaways
+Business Recommendations – 5 actionable suggestions
+Conclusion
